@@ -29,7 +29,7 @@ export function Favorito() {
         {movies.map((movie) => (
           <li key={movie.id}>
             <span>{movie.title}</span>
-            <div>
+            <div className="actions">
               <Link to={`/filme/${movie.id}`}>Ver detalhes</Link>
               <button className="excluir" onClick={()=>handleRemove(movie.id)}>Excluir</button>
             </div>

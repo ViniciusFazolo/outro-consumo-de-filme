@@ -1,5 +1,5 @@
 .meus-filmes{
-    width: 600px;
+    width: 80%;
 }
 
 .meus-filmes h1{
@@ -15,6 +15,7 @@ ul li{
     margin-bottom: .5em;
     padding: .5em .3em;
 }
+
 
 .excluir{
     margin-left: 1em;
@@ -33,4 +34,15 @@ ul li div a {
 .empty{
     text-align: center;
     display: block;
+}
+
+@media (max-width: 600px){
+    ul li{
+        flex-direction: column;
+    }
+
+    ul li span{
+        margin-bottom: 5px;
+        text-align: center;
+    }
 }
