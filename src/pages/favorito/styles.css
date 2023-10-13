@@ -1,0 +1,36 @@
+.meus-filmes{
+    width: 600px;
+}
+
+.meus-filmes h1{
+    margin: .8em 0;
+    text-align: center;
+}
+
+ul li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #a9a9a9;
+    margin-bottom: .5em;
+    padding: .5em .3em;
+}
+
+.excluir{
+    margin-left: 1em;
+    background-color: #3f3fca;
+    color: white;
+    padding: 5px 10px;
+    border:none;
+    cursor: pointer;
+}
+
+ul li div a {
+    text-decoration: none;
+    color: #3f3fca;
+}
+
+.empty{
+    text-align: center;
+    display: block;
+}
