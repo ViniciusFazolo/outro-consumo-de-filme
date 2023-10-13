@@ -5,7 +5,7 @@ import {Error, Favorito, Home, Movies} from '../pages'
 function RoutesApp() {
   return (
     <Routes>
-      <Route path='/' element={<Home/>}/>
+      <Route path='/outro-consumo-de-filme' element={<Home/>}/>
       <Route path='/filme/:id' element={<Movies/>}/>
       <Route path='/favoritos' element={<Favorito />}/>
       

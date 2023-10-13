@@ -72,7 +72,7 @@ export function Movies() {
               <a href={`https://www.youtube.com/results?search_query=${movie.title} Trailler`} target="blank" rel="external">Trailler</a>
             </button>
           </div>
-          <Link to={"/"} className="back">
+          <Link to={"/outro-consumo-de-filme"} className="back">
             Voltar para filmes
           </Link>
         </>
