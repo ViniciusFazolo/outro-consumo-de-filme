@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/outro-consumo-de-filme/static/css/main.5ba2d5d2.css",
-    "main.js": "/outro-consumo-de-filme/static/js/main.bc699d4f.js",
+    "main.css": "/outro-consumo-de-filme/static/css/main.6c885804.css",
+    "main.js": "/outro-consumo-de-filme/static/js/main.22e45924.js",
     "index.html": "/outro-consumo-de-filme/index.html",
-    "main.5ba2d5d2.css.map": "/outro-consumo-de-filme/static/css/main.5ba2d5d2.css.map",
-    "main.bc699d4f.js.map": "/outro-consumo-de-filme/static/js/main.bc699d4f.js.map"
+    "main.6c885804.css.map": "/outro-consumo-de-filme/static/css/main.6c885804.css.map",
+    "main.22e45924.js.map": "/outro-consumo-de-filme/static/js/main.22e45924.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ba2d5d2.css",
-    "static/js/main.bc699d4f.js"
+    "static/css/main.6c885804.css",
+    "static/js/main.22e45924.js"
   ]
 }
